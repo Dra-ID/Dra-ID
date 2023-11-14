@@ -15,6 +15,7 @@
  - 👨‍🦱 My name is `Vindra ID`
  - 🏠 Live in `Bandung, Jawa Barat`
  - 👶🏻 Born in `Jawa Barat, Indonesia`
+ - 🏫 School in `Smpn 2 Lewimunding`
  - 🌐 Language
    - 🇮🇩 Indonesian
    - 🇮🇩 Sunda Empire
