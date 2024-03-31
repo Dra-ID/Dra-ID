@@ -16,9 +16,10 @@
  - 🏠 Live in `Bandung, Jawa Barat`
  - 👶🏻 Born in `Jawa Barat, Indonesia`
  - 🏫 School in `Smpn 2 Lewimunding`
+ - 🌸 My Idol `Zeejkt48 (Azizi Asadel)`
  - 🌐 Language
    - 🇮🇩 Indonesian
    - 🇮🇩 Sunda Empire
    - 🇮🇩 Jawa Empire
 
-<a href="https://saweria.co/donate/Vindra" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
+<a href="https://saweria.co/donate/Vindra" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For VindraGanz" height="41" width="174"></a>
