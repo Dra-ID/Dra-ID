@@ -28,6 +28,6 @@
 > 
 [![](https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=pink&labelColor=white)](https://www.instagram.com/vindradoang)
 [![](https://img.shields.io/badge/Whatsapp-white?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6283809192307?text=Asalamualaikum+bang)
-[![](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=Brighwhite&labelColor=white)](https://t.me/@vindradoang)
-[![](https://img.shields.io/badge/youTube-white?logo=youTube&logoColor=Brighred&labelColor=red)](https://youtube.com/@vindradesign)
-[![](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=Brighblue&labelColor=blue)](https://facebook.com/@VindraDoang0)<br>
+[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=Brighwhite&labelColor=white)](https://t.me/@vindradoang)
+[![](https://img.shields.io/badge/YouTube-white?logo=YouTube&logoColor=Brighred&labelColor=red)](https://youtube.com/@vindradesign)
+[![](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=Brighblue&labelColor=blue)](https://facebook.com/@vindradoang0)<br>
